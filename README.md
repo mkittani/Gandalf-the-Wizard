@@ -19,6 +19,4 @@ Compile and run the code using a C++ compiler. Each algorithm works similarly, e
 - First, the total weight capacity `total_weight`.
 - Then, the number of items `n`, followed by the weight and value of each item.
 
-```bash
-g++ yourfile.cpp -o output
-./output
+
