@@ -19,4 +19,14 @@ Compile and run the code using a C++ compiler. Each algorithm works similarly, e
 - First, the total weight capacity `total_weight`.
 - Then, the number of items `n`, followed by the weight and value of each item.
 
-
+## Example
+### Input:
+```
+500
+3
+15 25
+5 20
+25 30
+```
+### Output:
+600
