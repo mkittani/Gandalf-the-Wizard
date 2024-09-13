@@ -55,7 +55,6 @@ int main() {
 */
 
 // DP ALGORITHM
-/*
 #include <bits/stdc++.h>
 using namespace std;
 int main() {
@@ -78,4 +77,4 @@ int main() {
     cout << v[total_weight] << endl;
     return 0;
 }
-*/
+
